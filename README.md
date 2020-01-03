@@ -90,6 +90,9 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>SRFeat</b> Srfeat: Single image super-resolution with feature discrimination 2018 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/HyeongseokSon1/SRFeat"> tensorflow </a>
 
 
+<b> Survey Papers </b>
 
+Deep Learning for Image Super-resolution: A Survey   Feb 2019  <a href="https://arxiv.org/pdf/1902.06068.pdf"> PDF </a>
 
+A Deep Journey into Super-resolution: A survey   Apr 2019  <a href="https://arxiv.org/pdf/1904.07523.pdf"> PDF </a>
 
