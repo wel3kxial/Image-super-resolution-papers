@@ -69,7 +69,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>RCAN </b> image super-resolution using very deep residual channel attention networks Jul 2018 <a href="https://arxiv.org/pdf/1807.02758.pdf" target="_blank"> PDF </a> <a href="https://github.com/yulunzhang/RCAN"> PyTorch </a>
 
-<b>SRRAM </b> Densely residual laplacian super-resolution Jul 2019 <a href="https://arxiv.org/pdf/1906.12021.pdf" target="_blank"> PDF </a>
+<b>DRLN </b> Densely residual laplacian super-resolution Jul 2019 <a href="https://arxiv.org/pdf/1906.12021.pdf" target="_blank"> PDF </a> <a href="https://github.com/saeed-anwar/DRLN"> PyTorch </a>
 
 <b>SAN</b> Second-order Attention Network for Single Image Super-Resolution 2019 <a href="http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR19-SAN.pdf"> PDF </a> <a href="https://github.com/daitao/SAN"> PyTorch </a>
 
