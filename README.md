@@ -19,7 +19,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>DnCNN </b> Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising   Aug 2016  <a href="https://arxiv.org/pdf/1608.03981.pdf"> PDF </a>
 
 
-<b>IRCNN </b> Learning deep cnn denoiser prior for image restoration  Apr 2017 <a href"https://arxiv.org/pdf/1704.03264.pdf"> PDF </a>
+<b>IRCNN </b> Learning deep cnn denoiser prior for image restoration  Apr 2017 <a href="https://arxiv.org/pdf/1704.03264.pdf"> PDF </a>
 
 <h2> Residual Networks </h2>
 
