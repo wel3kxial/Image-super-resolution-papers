@@ -9,4 +9,4 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <h2> Early Adoptions using CNN </h2>
 
-Image super-resolution using deep convolutional networks       <a href="https://arxiv.org/pdf/1501.00092.pdf">  PDF  </a>
+<b>SRCNN >/b>  Image super-resolution using deep convolutional networks       <a href="https://arxiv.org/pdf/1501.00092.pdf">  PDF  </a>
