@@ -33,7 +33,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>REDNet </b> Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections Sep 2016 <a href="https://arxiv.org/pdf/1603.09056.pdf" target="_blank"> PDF </a> <a href="https://github.com/yjn870/REDNet-pytorch"> PyTorch </a> 
 
-<b>EBRN</b>Embedded Block Residual Network: A Recursive Restoration Model for Single-Image Super-Resolution <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf"> PDF </a>
+<b>EBRN</b> Embedded Block Residual Network: A Recursive Restoration Model for Single-Image Super-Resolution <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf"> PDF </a>
 
 <h2> Resursive Networks </h2>
 
@@ -93,6 +93,9 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>SRFeat</b> Srfeat: Single image super-resolution with feature discrimination 2018 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/HyeongseokSon1/SRFeat"> tensorflow </a>
 
+<h2> Other Models </h2>
+
+<b>OISR</b> ODE-inspired Network Design for Single Image Super-Resolution  2019 <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf"> PDF </a> <a href="https://github.com/HolmesShuan/OISR-PyTorch"> PyTorch </a>
 
 <h2> Survey Papers </h2>
 
