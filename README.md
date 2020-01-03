@@ -12,22 +12,22 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>SRCNN </b>  Image super-resolution using deep convolutional networks   Jul 2015     <a href="https://arxiv.org/pdf/1501.00092.pdf" target="_blank">  PDF  </a>  <a href="https://github.com/tegg89/SRCNN-Tensorflow" target="_blank"> Tensorflow </a> <a href="https://github.com/takuyaa/waifu2x-js" target="_blank"> Nodejs </a> <a href="https://github.com/pby5/sr_caffe" target="_blank"> Caffe </a> <a href="https://github.com/qobilidop/srcnn" target="_blank"> Keras </a>
 
 
-<b>FSRCNN </b> Accelerating the super-resolution convolutional neural network    Aug 2016 <a href="https://arxiv.org/pdf/1608.00367.pdf" target="_blank"> PDF </a> <a href="https://github.com/icpm/super-resolution/tree/master/FSRCNN"> Torch </a>
+<b>FSRCNN </b> Accelerating the super-resolution convolutional neural network    Aug 2016 <a href="https://arxiv.org/pdf/1608.00367.pdf" target="_blank"> PDF </a> <a href="https://github.com/icpm/super-resolution/tree/master/FSRCNN"> Torch </a> <a href="https://github.com/yifanw90/FSRCNN-TensorFlow"> Tensorflow </a> <a href="https://github.com/GeorgeSeif/FSRCNN-Keras"> Keras </a>
 
 <b>VDSR </b> Accurate image super- resolution using very deep convolutional networks    Nov 2016 <a href="https://arxiv.org/pdf/1511.04587.pdf" target="_blank"> PDF </a>  <a href="https://github.com/Jongchan/tensorflow-vdsr" target="_blank"> Tensorflow </a> <a href="https://github.com/mks0601/Accurate-Image-Super-Resolution-Using-Very-Deep-Convolutional-Networks" target="_blank"> Torch </a>
 
-<b>DnCNN </b> Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising   Aug 2016  <a href="https://arxiv.org/pdf/1608.03981.pdf" target="_blank"> PDF </a> <a href="https://github.com/cszn/KAIR"> PyTorch </a>
+<b>DnCNN </b> Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising   Aug 2016  <a href="https://arxiv.org/pdf/1608.03981.pdf" target="_blank"> PDF </a> <a href="https://github.com/cszn/KAIR"> PyTorch </a> <a href="https://github.com/wbhu/DnCNN-tensorflow"> Tensorflow </a> <a href="https://github.com/husqin/DnCNN-keras"> Keras </a>
 
 
-<b>IRCNN </b> Learning deep cnn denoiser prior for image restoration  Apr 2017 <a href="https://arxiv.org/pdf/1704.03264.pdf" target="_blank"> PDF </a>
+<b>IRCNN </b> Learning deep cnn denoiser prior for image restoration  Apr 2017 <a href="https://arxiv.org/pdf/1704.03264.pdf" target="_blank"> PDF </a> <a href="https://github.com/lipengFu/IRCNN"> Tensorflow </a>
 
 <h2> Residual Networks </h2>
 
-<b>EDSR </b> Enhanced deep residual networks for single image super-resolution  Jul 2017 <a href="https://arxiv.org/pdf/1707.02921.pdf" target="_blank"> PDF </a>
+<b>EDSR </b> Enhanced deep residual networks for single image super-resolution  Jul 2017 <a href="https://arxiv.org/pdf/1707.02921.pdf" target="_blank"> PDF </a> <a href="https://github.com/thstkdgus35/EDSR-PyTorch"> PyTorch </a>  <a href="https://github.com/jmiller656/EDSR-Tensorflow"> Tensorflow </a>
 
 <b>CARN </b> Fast, accurate, and, lightweight super-resolution with cascading residual network  Oct 2018 <a href="https://arxiv.org/pdf/1803.08664.pdf" target="_blank"> PDF </a>
 
-<b>FormResNet </b> Formresnet: formatted residual learning for image restoration  2017  <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Jiao_FormResNet_Formatted_Residual_CVPR_2017_paper.pdf" target="_blank"> PDF </a>
+<b>FormResNet </b> Formresnet: formatted residual learning for image restoration  2017  <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Jiao_FormResNet_Formatted_Residual_CVPR_2017_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/MingtaoGuo/FormResNet-Denoise-Gaussian-noise-TensorFlow"> Tensorflow </a> 
 
 <b>BTSRN </b> Balanced two-stage residual networks for image super-resolution  2017 <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Fan_Balanced_Two-Stage_Residual_CVPR_2017_paper.pdf" target="_blank"> PDF </a>
 
