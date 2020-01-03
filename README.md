@@ -37,4 +37,22 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>DRCN  </b>  Deeply-recursive convolutional network for image super-resolution Nov 2016 <a href="https://arxiv.org/pdf/1511.04491.pdf"> PDF </a>
 
+<b>DRRN  </b>  Image super-resolution via deep recursive residual network 2017 <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf"> PDF </a>
+
+<b>MemNet </b> Memnet: A persistent memory network for image restoration Aug 2017 <a href="https://arxiv.org/pdf/1708.02209.pdf"> PDF </a>
+
+<h2> Progressive Reconstructions </h2>
+
+<b>SCN </b> Deep networks for image super-resolution with sparse prior Oct 2015 <a href="https://arxiv.org/pdf/1507.08905.pdf"> PDF </a>
+
+<b>LapSRN </b> Deep lapla- cian pyramid networks for fast and accurate superresolution Oct 2017 <a href="https://arxiv.org/pdf/1704.03915.pdf"> PDF </a>
+
+<h2> Densely Connected Networks </h2>
+<b>SR-DenseNet</b> Image super-resolution using dense skip connections 2017 <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf"> PDF </a>
+
+<b>RDN </b> Residual dense network for image super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1802.08797.pdf"> PDF </a>
+
+<b>D-DBPN </b> Deep backprojection networks for super-resolution Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf"> PDF </a>
+
+
 
