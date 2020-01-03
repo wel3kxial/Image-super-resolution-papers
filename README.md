@@ -35,6 +35,8 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>EBRN</b> Embedded Block Residual Network: A Recursive Restoration Model for Single-Image Super-Resolution <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf"> PDF </a>
 
+<b>BNAN</b>Residule Non-Local Attention Networks for Image restoration 2019 <a href="https://openreview.net/pdf?id=HkeGhoA5FX"> PDF </a> <a href="https://github.com/yulunzhang/RNAN"> PyTorch </a>
+
 <h2> Resursive Networks </h2>
 
 <b>DRCN  </b>  Deeply-recursive convolutional network for image super-resolution Nov 2016 <a href="https://arxiv.org/pdf/1511.04491.pdf" target="_blank"> PDF </a> <a href="https://github.com/chenhe82166/DRCN_tf"> Tensorflow </a> 
@@ -96,6 +98,10 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <h2> Other Models </h2>
 
 <b>OISR</b> ODE-inspired Network Design for Single Image Super-Resolution  2019 <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf"> PDF </a> <a href="https://github.com/HolmesShuan/OISR-PyTorch"> PyTorch </a>
+
+<b>DPSR </b> Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels Mar 2019 <a href="https://arxiv.org/pdf/1903.12529.pdf"> PDF </a> <a href="https://github.com/cszn/DPSR"> PyTorch </a>
+
+<b>TENet</b> Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution May 2019 <a href="https://arxiv.org/pdf/1905.02538.pdf"> PDF </a> <a href="https://github.com/guochengqian/TENet"> PyTorch </a>
 
 <h2> Survey Papers </h2>
 
