@@ -51,9 +51,9 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>SR-DenseNet</b> Image super-resolution using dense skip connections 2017 <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/twtygqyy/pytorch-SRDenseNet"> PyTorch </a> <a href="https://github.com/kweisamx/TensorFlow-SR-DenseNet"> Tensorflow </a>
 
-<b>RDN </b> Residual dense network for image super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1802.08797.pdf" target="_blank"> PDF </a>
+<b>RDN </b> Residual dense network for image super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1802.08797.pdf" target="_blank"> PDF </a> <a href="https://github.com/yulunzhang/RDN"> Torch </a> <a href="https://github.com/lingtengqiu/RDN-pytorch"> PyTorch </a> <a href="https://github.com/hengchuan/RDN-TensorFlow"> Tensorflow </a> 
 
-<b>D-DBPN </b> Deep back-projection networks for super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf" target="_blank"> PDF </a> <a href="https://github.com/icpm/super-resolution/tree/master/DBPN"> PyTorch </a> <a href="https://github.com/alterzero/DBPN-caffe"> Caffe </a>
+<b>DBPN </b> Deep back-projection networks for super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf" target="_blank"> PDF </a> <a href="https://github.com/icpm/super-resolution/tree/master/DBPN"> PyTorch </a> <a href="https://github.com/alterzero/DBPN-caffe"> Caffe </a> <a href="https://github.com/rajatkb/DBPN-Deep_Back_Projection_Network-Keras"> Keras </a> <a href="https://github.com/tlokeshkumar/DBPN-tf"> Tensorflow </a> 
 
 <h2>Multi-branch </h2>
 
