@@ -67,7 +67,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>SelNet</b> A deep convolutional neural network with selection units for super-resolution 2017 <a href="https://ieeexplore.ieee.org/document/8014887" target="_blank"> PDF </a>
 
-<b>RCAN </b> image super-resolution using very deep residual channel attention networks Jul 2018 <a href="https://arxiv.org/pdf/1807.02758.pdf" target="_blank"> PDF </a>
+<b>RCAN </b> image super-resolution using very deep residual channel attention networks Jul 2018 <a href="https://arxiv.org/pdf/1807.02758.pdf" target="_blank"> PDF </a> <a href="https://github.com/yulunzhang/RCAN"> PyTorch </a>
 
 <b>SRRAM </b> Densely residual laplacian super-resolution Jul 2019 <a href="https://arxiv.org/pdf/1906.12021.pdf" target="_blank"> PDF </a>
 
