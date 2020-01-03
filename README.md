@@ -79,6 +79,8 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>MAANet</b> MAANet: Multi-view Aware Attention Networks for Image Super-Resolution Apr 2019  <a href="https://arxiv.org/pdf/1904.06252.pdf"> PDF </a>
 
+<b>MCAN</b> A Matrix-in-matrix Neural Network for Image Super Resolution May 2019 <a href="https://arxiv.org/pdf/1903.07949.pdf"> PDF </a> <a href="https://github.com/macn3388/MCAN"> PyTorch </a>
+
 <h2>Multiple-degradation Handling </h2>
 
 <b>ZSSR</b> Ram: Residual attention module for single image super-resolution Nov 2018 <a href="https://arxiv.org/pdf/1811.12043.pdf" target="_blank"> PDF </a> <a href="https://github.com/assafshocher/ZSSR"> Tensorflow </a>
@@ -102,6 +104,8 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>DPSR </b> Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels Mar 2019 <a href="https://arxiv.org/pdf/1903.12529.pdf"> PDF </a> <a href="https://github.com/cszn/DPSR"> PyTorch </a>
 
 <b>TENet</b> Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution May 2019 <a href="https://arxiv.org/pdf/1905.02538.pdf"> PDF </a> <a href="https://github.com/guochengqian/TENet"> PyTorch </a>
+
+<b>SRNTT</b> Image Super-Resolution by Neural Texture Transfer May 2019 <a href="https://arxiv.org/pdf/1903.00834.pdf"> PDF </a> <a href="https://github.com/ZZUTK/SRNTT"> Tensorflow </a> 
 
 <h2> Survey Papers </h2>
 
