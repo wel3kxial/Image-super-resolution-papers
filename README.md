@@ -48,9 +48,36 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>LapSRN </b> Deep lapla- cian pyramid networks for fast and accurate superresolution Oct 2017 <a href="https://arxiv.org/pdf/1704.03915.pdf"> PDF </a>
 
 <h2> Densely Connected Networks </h2>
+
 <b>SR-DenseNet</b> Image super-resolution using dense skip connections 2017 <a href="http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf"> PDF </a>
 
 <b>RDN </b> Residual dense network for image super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1802.08797.pdf"> PDF </a>
+
+<b>D-DBPN </b> Deep back-projection networks for super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf"> PDF </a>
+
+<h2>Multi-branch </h2>
+
+<b>CNF</b> Image super resolution based on fusing multiple convolution neural networks Jul 2017 <a href="https://ieeexplore.ieee.org/document/8014876"> PDF </a>
+
+<b>CMSC</a> Single image super- resolution via cascaded multi-scale cross network Feb 2018 <a href="https://arxiv.org/pdf/1802.08808.pdf"> PDF </a>
+
+<b>IDN</a>  Fast and accurate single image super-resolution via information distillation network Mar 2018 <a href="https://arxiv.org/pdf/1803.09454.pdf"> PDF </a>
+
+<h2>Attention based </h2>
+
+<b>SelNet</b> A deep convolutional neural network with selection units for super-resolution 2017 <a href="https://ieeexplore.ieee.org/document/8014887"> PDF </a>
+
+<b>RCAN </b> image super-resolution using very deep residual channel attention networks Jul 2018 <a href="https://arxiv.org/pdf/1807.02758.pdf"> PDF </a>
+
+<b>SRRAM </b> Densely residual laplacian super-resolution Jul 2019 <a href="https://arxiv.org/pdf/1906.12021.pdf"> PDF </a>
+
+<h2>Multiple-degradation Handling </h2>
+
+<b>ZSSR</b> Ram: Residual attention module for single image super-resolution Nov 2018 <a href="https://arxiv.org/pdf/1811.12043.pdf"> PDF </a>
+
+
+
+
 
 <b>D-DBPN </b> Deep backprojection networks for super-resolution Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf"> PDF </a>
 
