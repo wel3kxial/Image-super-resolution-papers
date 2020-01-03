@@ -59,9 +59,9 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>CNF</b> Image super resolution based on fusing multiple convolution neural networks Jul 2017 <a href="https://ieeexplore.ieee.org/document/8014876"> PDF </a>
 
-<b>CMSC</a> Single image super- resolution via cascaded multi-scale cross network Feb 2018 <a href="https://arxiv.org/pdf/1802.08808.pdf"> PDF </a>
+<b>CMSC</b> Single image super- resolution via cascaded multi-scale cross network Feb 2018 <a href="https://arxiv.org/pdf/1802.08808.pdf"> PDF </a>
 
-<b>IDN</a>  Fast and accurate single image super-resolution via information distillation network Mar 2018 <a href="https://arxiv.org/pdf/1803.09454.pdf"> PDF </a>
+<b>IDN</b>  Fast and accurate single image super-resolution via information distillation network Mar 2018 <a href="https://arxiv.org/pdf/1803.09454.pdf"> PDF </a>
 
 <h2>Attention based </h2>
 
@@ -74,10 +74,6 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <h2>Multiple-degradation Handling </h2>
 
 <b>ZSSR</b> Ram: Residual attention module for single image super-resolution Nov 2018 <a href="https://arxiv.org/pdf/1811.12043.pdf"> PDF </a>
-
-
-
-
 
 <b>D-DBPN </b> Deep backprojection networks for super-resolution Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf"> PDF </a>
 
