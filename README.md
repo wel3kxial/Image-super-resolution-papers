@@ -85,7 +85,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>EnhanceNet</b> Unsupervised representation learning with deep convolutional generative adversarial networks Jan 2016 <a href="https://arxiv.org/pdf/1511.06434.pdf" target="_blank"> PDF </a> <a href="https://github.com/alexjc/neural-enhance"> Theano </a>
 
-<b>ESRGAN</b> Esrgan: Enhanced super-resolution generative adversarial networks Sep 2019 <a href="https://arxiv.org/pdf/1809.00219.pdf" target="_blank"> PDF </a>
+<b>ESRGAN</b> Esrgan: Enhanced super-resolution generative adversarial networks Sep 2019 <a href="https://arxiv.org/pdf/1809.00219.pdf" target="_blank"> PDF </a> <a href="https://github.com/xinntao/ESRGAN"> PyTorch </a>
 
 <b>SRFeat</b> Srfeat: Single image super-resolution with feature discrimination 2018 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/HyeongseokSon1/SRFeat"> tensorflow </a>
 
