@@ -39,7 +39,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>DRRN  </b>  Image super-resolution via deep recursive residual network 2017 <a href="http://openaccess.thecvf.com/content_cvpr_2017/papers/Tai_Image_Super-Resolution_via_CVPR_2017_paper.pdf" target="_blank"> PDF </a>
 
-<b>MemNet </b> Memnet: A persistent memory network for image restoration Aug 2017 <a href="https://arxiv.org/pdf/1708.02209.pdf" target="_blank"> PDF </a>
+<b>MemNet </b> Memnet: A persistent memory network for image restoration Aug 2017 <a href="https://arxiv.org/pdf/1708.02209.pdf" target="_blank"> PDF </a> <a href="https://github.com/tyshiwo/MemNet"> Caffe </a>
 
 <h2> Progressive Reconstructions </h2>
 
@@ -53,7 +53,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>RDN </b> Residual dense network for image super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1802.08797.pdf" target="_blank"> PDF </a>
 
-<b>D-DBPN </b> Deep back-projection networks for super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf" target="_blank"> PDF </a> <a href="https://github.com/icpm/super-resolution/tree/master/DBPN"> PyTorch Pretrained </a>
+<b>D-DBPN </b> Deep back-projection networks for super-resolution  Mar 2018 <a href="https://arxiv.org/pdf/1803.02735.pdf" target="_blank"> PDF </a> <a href="https://github.com/icpm/super-resolution/tree/master/DBPN"> PyTorch Pretrained </a> <a href="https://github.com/alterzero/DBPN-caffe"> Caffe </a>
 
 <h2>Multi-branch </h2>
 
@@ -61,7 +61,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>CMSC</b> Single image super- resolution via cascaded multi-scale cross network Feb 2018 <a href="https://arxiv.org/pdf/1802.08808.pdf" target="_blank"> PDF </a>
 
-<b>IDN</b>  Fast and accurate single image super-resolution via information distillation network Mar 2018 <a href="https://arxiv.org/pdf/1803.09454.pdf" target="_blank"> PDF </a>
+<b>IDN</b>  Fast and accurate single image super-resolution via information distillation network Mar 2018 <a href="https://arxiv.org/pdf/1803.09454.pdf" target="_blank"> PDF </a> <a href="https://github.com/Zheng222/IDN-Caffe"> Caffe </a>
 
 <h2>Attention based </h2>
 
@@ -73,7 +73,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <h2>Multiple-degradation Handling </h2>
 
-<b>ZSSR</b> Ram: Residual attention module for single image super-resolution Nov 2018 <a href="https://arxiv.org/pdf/1811.12043.pdf" target="_blank"> PDF </a>
+<b>ZSSR</b> Ram: Residual attention module for single image super-resolution Nov 2018 <a href="https://arxiv.org/pdf/1811.12043.pdf" target="_blank"> PDF </a> <a href="https://github.com/assafshocher/ZSSR"> Tensorflow </a>
 
 <b>SRMD</b> Zero-shot super-resolution using deep internal learning Dec 2017 <a href="https://arxiv.org/pdf/1712.06087.pdf" target="_blank"> PDF </a>
 
@@ -81,11 +81,11 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>SRGAN</b> Photorealistic single image super-resolution using a generative adversarial network May 2017 <a href="https://arxiv.org/pdf/1609.04802.pdf" target="_blank"> PDF </a> <a href="https://github.com/icpm/super-resolution/tree/master/SRGAN"> Torch </a>
 
-<b>EnhanceNet</b> Unsupervised representation learning with deep convolutional generative adversarial networks Jan 2016 <a href="https://arxiv.org/pdf/1511.06434.pdf" target="_blank"> PDF </a>
+<b>EnhanceNet</b> Unsupervised representation learning with deep convolutional generative adversarial networks Jan 2016 <a href="https://arxiv.org/pdf/1511.06434.pdf" target="_blank"> PDF </a> <a href="https://github.com/alexjc/neural-enhance"> Theano </a>
 
 <b>ESRGAN</b> Esrgan: Enhanced super-resolution generative adversarial networks Sep 2019 <a href="https://arxiv.org/pdf/1809.00219.pdf" target="_blank"> PDF </a>
 
-<b>SRFeat</b> Srfeat: Single image super-resolution with feature discrimination 2018 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf" target="_blank"> PDF </a>
+<b>SRFeat</b> Srfeat: Single image super-resolution with feature discrimination 2018 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/HyeongseokSon1/SRFeat"> tensorflow </a>
 
 
 
