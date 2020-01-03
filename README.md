@@ -30,3 +30,11 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>FormResNet </b> Formresnet: formatted residual learning for image restoration  2017  <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Jiao_FormResNet_Formatted_Residual_CVPR_2017_paper.pdf"> PDF </a>
 
 <b>BTSRN </b> Balanced two-stage residual networks for image super-resolution  2017 <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Fan_Balanced_Two-Stage_Residual_CVPR_2017_paper.pdf"> PDF </a>
+
+<b>REDNet </b> Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections Sep 2016 <a href="https://arxiv.org/pdf/1603.09056.pdf"> PDF </a>
+
+<h2> Resursive Networks </h2>
+
+<b>DRCN  </b>  Deeply-recursive convolutional network for image super-resolution Nov 2016 <a href="https://arxiv.org/pdf/1511.04491.pdf"> PDF </a>
+
+
