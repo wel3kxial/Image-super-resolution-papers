@@ -33,6 +33,8 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>REDNet </b> Image restoration using very deep convolutional encoder-decoder networks with symmetric skip connections Sep 2016 <a href="https://arxiv.org/pdf/1603.09056.pdf" target="_blank"> PDF </a> <a href="https://github.com/yjn870/REDNet-pytorch"> PyTorch </a> 
 
+<b>EBRN</b>Embedded Block Residual Network: A Recursive Restoration Model for Single-Image Super-Resolution <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Embedded_Block_Residual_Network_A_Recursive_Restoration_Model_for_Single-Image_ICCV_2019_paper.pdf"> PDF </a>
+
 <h2> Resursive Networks </h2>
 
 <b>DRCN  </b>  Deeply-recursive convolutional network for image super-resolution Nov 2016 <a href="https://arxiv.org/pdf/1511.04491.pdf" target="_blank"> PDF </a> <a href="https://github.com/chenhe82166/DRCN_tf"> Tensorflow </a> 
@@ -73,6 +75,8 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>SAN</b> Second-order Attention Network for Single Image Super-Resolution 2019 <a href="http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR19-SAN.pdf"> PDF </a> <a href="https://github.com/daitao/SAN"> PyTorch </a>
 
+<b>MAANet</b> MAANet: Multi-view Aware Attention Networks for Image Super-Resolution Apr 2019  <a href="https://arxiv.org/pdf/1904.06252.pdf"> PDF </a>
+
 <h2>Multiple-degradation Handling </h2>
 
 <b>ZSSR</b> Ram: Residual attention module for single image super-resolution Nov 2018 <a href="https://arxiv.org/pdf/1811.12043.pdf" target="_blank"> PDF </a> <a href="https://github.com/assafshocher/ZSSR"> Tensorflow </a>
@@ -90,7 +94,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>SRFeat</b> Srfeat: Single image super-resolution with feature discrimination 2018 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/HyeongseokSon1/SRFeat"> tensorflow </a>
 
 
-<b> Survey Papers </b>
+<h2> Survey Papers </h2>
 
 Deep Learning for Image Super-resolution: A Survey   Feb 2019  <a href="https://arxiv.org/pdf/1902.06068.pdf"> PDF </a>
 
