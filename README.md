@@ -3,7 +3,7 @@ Most updated and comprehensive collections of papers and codings for image super
 
 Collections of Papers and Codings for Image Super resolution
 
-Deep Learning based super-resolution is a fast-growing filed with numerours practical applications as well as various of models and papers. This is a list of such papers and codings (Lasted update Jan 2020)
+Deep Learning based super-resolution is a fast-growing filed with numerours practical applications as well as various of models and papers. This is a list of such papers and codings (<b>Lasted update Jan 2020 </b>)
 
 Super-resolution aims to convert a given low-resolution image with coarse details to a corresponding high-resolution image with better visual quality as well as refined details.
 
@@ -27,3 +27,6 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>CARN </b> Fast, accurate, and, lightweight super-resolution with cascading residual network  Oct 2018 <a href="https://arxiv.org/pdf/1803.08664.pdf"> PDF </a>
 
+<b>FormResNet </b> Formresnet: formatted residual learning for image restoration  2017  <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Jiao_FormResNet_Formatted_Residual_CVPR_2017_paper.pdf"> PDF </a>
+
+<b>BTSRN </b> Balanced two-stage residual networks for image super-resolution  2017 <a href="http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Fan_Balanced_Two-Stage_Residual_CVPR_2017_paper.pdf"> PDF </a>
