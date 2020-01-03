@@ -9,9 +9,11 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <h2> Early Adoptions using CNN </h2>
 
-<b>SRCNN </b>  Image super-resolution using deep convolutional networks   Jul 2015     <a href="https://arxiv.org/pdf/1501.00092.pdf">  PDF  </a>  <a href="https://github.com/tegg89/SRCNN-Tensorflow"> Tensorflow </a> <a href="https://github.com/takuyaa/waifu2x-js"> Nodejs </a> 
+<b>SRCNN </b>  Image super-resolution using deep convolutional networks   Jul 2015     <a href="https://arxiv.org/pdf/1501.00092.pdf">  PDF  </a>  <a href="https://github.com/tegg89/SRCNN-Tensorflow"> Tensorflow </a> <a href="https://github.com/takuyaa/waifu2x-js"> Nodejs </a> <a href="https://github.com/pby5/sr_caffe"> Caffe </a>
 
 
 <b>FSRCNN </b> Accelerating the super-resolution convolutional neural network    Aug 2016 <a href="https://arxiv.org/pdf/1608.00367.pdf"> PDF </a>
 
-<b>VDSR </b> Accurate image super- resolution using very deep convolutional networks    Nov 2016 <a href="https://arxiv.org/pdf/1511.04587.pdf"> PDF </a>  <a href="https://github.com/Jongchan/tensorflow-vdsr"> Tensorflow </a>
+<b>VDSR </b> Accurate image super- resolution using very deep convolutional networks    Nov 2016 <a href="https://arxiv.org/pdf/1511.04587.pdf"> PDF </a>  <a href="https://github.com/Jongchan/tensorflow-vdsr"> Tensorflow </a> <a href="https://github.com/mks0601/Accurate-Image-Super-Resolution-Using-Very-Deep-Convolutional-Networks"> Torch </a>
+
+
