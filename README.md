@@ -16,4 +16,14 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>VDSR </b> Accurate image super- resolution using very deep convolutional networks    Nov 2016 <a href="https://arxiv.org/pdf/1511.04587.pdf"> PDF </a>  <a href="https://github.com/Jongchan/tensorflow-vdsr"> Tensorflow </a> <a href="https://github.com/mks0601/Accurate-Image-Super-Resolution-Using-Very-Deep-Convolutional-Networks"> Torch </a>
 
+<b>DnCNN </b> Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising   Aug 2016  <a href="https://arxiv.org/pdf/1608.03981.pdf"> PDF </a>
+
+
+<b>IRCNN </b> Learning deep cnn denoiser prior for image restoration  Apr 2017 <a href"https://arxiv.org/pdf/1704.03264.pdf"> PDF </a>
+
+<h2> Residual Networks </h2>
+
+<b>EDSR </b> Enhanced deep residual networks for single image super-resolution  Jul 2017 <a href="https://arxiv.org/pdf/1707.02921.pdf"> PDF </a>
+
+<b>CARN </b> Fast, accurate, and, lightweight super-resolution with cascading residual network  Oct 2018 <a href="https://arxiv.org/pdf/1803.08664.pdf"> PDF </a>
 
