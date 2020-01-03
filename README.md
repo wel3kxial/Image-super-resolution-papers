@@ -16,7 +16,7 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>VDSR </b> Accurate image super- resolution using very deep convolutional networks    Nov 2016 <a href="https://arxiv.org/pdf/1511.04587.pdf" target="_blank"> PDF </a>  <a href="https://github.com/Jongchan/tensorflow-vdsr" target="_blank"> Tensorflow </a> <a href="https://github.com/mks0601/Accurate-Image-Super-Resolution-Using-Very-Deep-Convolutional-Networks" target="_blank"> Torch </a>
 
-<b>DnCNN </b> Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising   Aug 2016  <a href="https://arxiv.org/pdf/1608.03981.pdf" target="_blank"> PDF </a>
+<b>DnCNN </b> Beyond a gaussian denoiser: Residual learning of deep cnn for image denoising   Aug 2016  <a href="https://arxiv.org/pdf/1608.03981.pdf" target="_blank"> PDF </a> <a href="https://github.com/cszn/KAIR"> PyTorch </a>
 
 
 <b>IRCNN </b> Learning deep cnn denoiser prior for image restoration  Apr 2017 <a href="https://arxiv.org/pdf/1704.03264.pdf" target="_blank"> PDF </a>
@@ -71,11 +71,13 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>SRRAM </b> Densely residual laplacian super-resolution Jul 2019 <a href="https://arxiv.org/pdf/1906.12021.pdf" target="_blank"> PDF </a>
 
+<b>SAN</b> Second-order Attention Network for Single Image Super-Resolution 2019 <a href="http://www4.comp.polyu.edu.hk/~cslzhang/paper/CVPR19-SAN.pdf"> PDF </a> <a href="https://github.com/daitao/SAN"> PyTorch </a>
+
 <h2>Multiple-degradation Handling </h2>
 
 <b>ZSSR</b> Ram: Residual attention module for single image super-resolution Nov 2018 <a href="https://arxiv.org/pdf/1811.12043.pdf" target="_blank"> PDF </a> <a href="https://github.com/assafshocher/ZSSR"> Tensorflow </a>
 
-<b>SRMD</b> Zero-shot super-resolution using deep internal learning Dec 2017 <a href="https://arxiv.org/pdf/1712.06087.pdf" target="_blank"> PDF </a>
+<b>SRMD</b> Zero-shot super-resolution using deep internal learning Dec 2017 <a href="https://arxiv.org/pdf/1712.06087.pdf" target="_blank"> PDF </a> <a href="https://github.com/cszn/KAIR"> PyTorch </a>
 
 <h2> GAN </h2>
 
