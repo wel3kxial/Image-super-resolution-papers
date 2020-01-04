@@ -119,6 +119,10 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>Edge-Informed</b> Edge-Informed Single Image Super-Resolution Sep 2019 <a href="https://arxiv.org/pdf/1909.05305.pdf"> PDF </a> <a href="https://github.com/knazeri/edge-informed-sisr"> PyTorch </a>
 
+<b>IMDN</b> Lightweight Image Super-Resolution with Information Multi-distillation Network Sep 2019 <a href="https://arxiv.org/pdf/1909.11856.pdf"> PDF </a> <a href="https://github.com/Zheng222/IMDN"> PyTorch </a>
+
+<b>KMSR</b> Kernel Modeling Super-Resolution on Real Low-Resolution Images 2019 <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Kernel_Modeling_Super-Resolution_on_Real_Low-Resolution_Images_ICCV_2019_paper.pdf"> PDF </a> <a href="https://github.com/IVRL/Kernel-Modeling-Super-Resolution"> PyTorch </a>
+
 <h2> Survey Papers </h2>
 
 Deep Learning for Image Super-resolution: A Survey   Feb 2019  <a href="https://arxiv.org/pdf/1902.06068.pdf"> PDF </a>
