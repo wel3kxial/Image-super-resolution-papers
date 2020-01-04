@@ -139,3 +139,6 @@ Deep Learning for Image Super-resolution: A Survey   Feb 2019  <a href="https://
 
 A Deep Journey into Super-resolution: A survey   Apr 2019  <a href="https://arxiv.org/pdf/1904.07523.pdf"> PDF </a>
 
+<b> NOTE </b>
+
+If I missed your paper in this review, please email me or just pull a request here.
