@@ -123,6 +123,8 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>KMSR</b> Kernel Modeling Super-Resolution on Real Low-Resolution Images 2019 <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Kernel_Modeling_Super-Resolution_on_Real_Low-Resolution_Images_ICCV_2019_paper.pdf"> PDF </a> <a href="https://github.com/IVRL/Kernel-Modeling-Super-Resolution"> PyTorch </a>
 
+<b>CFSNet</b> CFSNet: Toward a Controllable Feature Space for Image Restoration 2019 <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_CFSNet_Toward_a_Controllable_Feature_Space_for_Image_Restoration_ICCV_2019_paper.pdf"> PDF </a> <a href="https://github.com/qibao77/CFSNet"> PyTorch </a>
+
 <h2> Survey Papers </h2>
 
 Deep Learning for Image Super-resolution: A Survey   Feb 2019  <a href="https://arxiv.org/pdf/1902.06068.pdf"> PDF </a>
