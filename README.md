@@ -97,6 +97,8 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 
 <b>SRFeat</b> Srfeat: Single image super-resolution with feature discrimination 2018 <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf" target="_blank"> PDF </a> <a href="https://github.com/HyeongseokSon1/SRFeat"> tensorflow </a>
 
+<b>RankSRGAN</b> RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution Aug 2019 <a href="https://arxiv.org/pdf/1908.06382.pdf"> PDF </a> <a href="https://github.com/WenlongZhang0724/RankSRGAN"> PyTorch </a>
+
 <h2> Other Models </h2>
 
 <b>OISR</b> ODE-inspired Network Design for Single Image Super-Resolution  2019 <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf"> PDF </a> <a href="https://github.com/HolmesShuan/OISR-PyTorch"> PyTorch </a>
@@ -106,6 +108,16 @@ Super-resolution aims to convert a given low-resolution image with coarse detail
 <b>TENet</b> Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution May 2019 <a href="https://arxiv.org/pdf/1905.02538.pdf"> PDF </a> <a href="https://github.com/guochengqian/TENet"> PyTorch </a>
 
 <b>SRNTT</b> Image Super-Resolution by Neural Texture Transfer May 2019 <a href="https://arxiv.org/pdf/1903.00834.pdf"> PDF </a> <a href="https://github.com/ZZUTK/SRNTT"> Tensorflow </a> 
+
+<b>MixUp</b> Suppressing Model Overfitting for Image Super-Resolution Networks Jun 2019 <a href="https://arxiv.org/pdf/1906.04809.pdf"> PDF </a>
+
+<b>FC2N</b> FC2N: Fully Channel-Concatenated Network for Single Image Super-Resolution Jul 2019 <a href="https://arxiv.org/pdf/1907.03221.pdf"> PDF </a>
+
+<b>GMFN</b> Gated Multiple Feedback Network for Image Super-Resolution Jul 2019 <a href="https://arxiv.org/pdf/1907.04253.pdf"> PDF </a> <a href="https://github.com/liqilei/GMFN"> PyTorch </a>
+
+<b>PPON</b> Progressive Perception-Oriented Network for Single Image Super-Resolution Jul 2019 <a href="https://arxiv.org/pdf/1907.10399.pdf"> PDF </a> <a href="https://github.com/Zheng222/PPON"> PyTorch </a>
+
+<b>Edge-Informed</b> Edge-Informed Single Image Super-Resolution Sep 2019 <a href="https://arxiv.org/pdf/1909.05305.pdf"> PDF </a> <a href="https://github.com/knazeri/edge-informed-sisr"> PyTorch </a>
 
 <h2> Survey Papers </h2>
 
